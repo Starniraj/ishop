@@ -1,0 +1,379 @@
+.dropdown-items{
+    margin-top: -40px;
+    margin-left: 20px;
+}
+.second-item{
+    position: relative;
+    left: 236px;
+    bottom: 171px;
+}
+.third-item{
+    position: relative;
+    left: 448px;
+    bottom: 336px;
+}
+.container{
+    height: 1000px;
+    width: 600px;
+    /* border: 1px solid black; */
+}
+.first{
+    margin-top: 30px;
+    top: 327px;
+    left: 375px;
+    width: 270px;
+    height: 371px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.first-heading{
+    font-size: 20px;
+    font-weight: bold;
+    /* text-align: center; */
+}
+.first-list{
+    text-decoration: none;
+    margin-left: 0px;
+    color: black;
+    font-weight: bold;
+}
+.first-list:active{
+    color: rgb(8, 8, 71);
+    background-color: rgb(156, 156, 240);
+}
+.navbar-nav{
+    width: 600px;
+    color: blue;
+}
+.second{
+    margin-top: 30px;
+    top: 728px;
+    left: 375px;
+    width: 270px;
+    height: 144px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.second-heading{
+    margin-left: 0px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.range{
+    margin-left: 0px;
+}
+.cost{
+    margin-left: 113px;
+}
+.third{
+    margin-top: 30px;
+    top: 902px;
+    left: 375px;
+    width: 270px;
+    height: 123px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.third-heading{
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+.colors{
+    margin: 5px;
+    width:100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+/* .colors{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: green;
+    margin-left: 20px;
+}
+.colorstwo{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-left: 20px;
+}
+.colorsthree{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: brown;
+    margin-left: 20px;
+}
+.colorsfour{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: orange;
+    margin-left: 20px;
+}
+.colorsfive{
+    display: inline;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-left: 20px;
+} */
+.four{
+    margin-top: 30px;
+    top: 1055px;
+    left: 375px;
+    width: 270px;
+    height: 245px;
+    background: #F6F7F8 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.right{
+    height: 1800px;
+    width: 1000px;
+    position: relative;
+    bottom: 974px;
+    left: 299px;
+    /* border: 1px solid black; */
+}
+.header{
+    position: relative;
+    /* top: 327px; */
+    right: 410px;
+    width: 1590px;
+    height: 340px;
+    /* background: pink 0% 0% no-repeat padding-box; */
+    background-image: linear-gradient(to right, pink , rgb(200, 239, 239));
+    border-radius: 4px;
+    opacity: 1;
+}
+.header1{
+    position: relative;
+    /* top: 327px; */
+    right: 20px;
+    width: 1100px;
+    height: 340px;
+    background: #2E90E5 0% 0% no-repeat padding-box;
+    border-radius: 4px;
+    opacity: 1;
+}
+.iphone{
+    position: relative;
+    bottom: 300px;
+    right: 330px;
+    width: 161px;
+    height: 52px;
+    text-align: left;
+    
+    font: normal normal 300 42px/43px Proxima Nova;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    font-weight: bold;
+    opacity: 1;
+}
+.content{
+    position: relative;
+    bottom: 300px;
+    right: 246px;
+    /* font: normal normal 300 42px/43px Proxima Nova; */
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+.shop{
+    position: relative;
+    bottom: 400px;
+    right: 180px;
+    /* font: normal normal 300 42px/43px Proxima Nova; */
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}
+.iphone_img{
+    position: relative;
+    bottom: 455px;
+    left: 211px;
+}
+.products{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: 1800px;
+    width: 1000px;
+    /* border: 1px solid black; */
+    position: relative;
+    bottom: 2433px;
+    left: 299px;
+}
+.productdiv{
+    border: 1px solid rgb(206, 205, 205);
+    margin: 10px;
+}
+.productdiv:hover{
+    position: relative;
+    bottom:10px;
+    box-shadow: 2px 2px rgb(208, 205, 205);
+    cursor: pointer;
+}
+.product-cost{
+    font-weight: bold;
+}
+.product-img{
+    height: 310px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 60px;
+    margin-top: 60px;
+}
+.buy-btn{
+    padding: 6px 6px;
+    border-radius: 10px;
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
+.cart-btn{
+    padding: 6px 6px;
+    border-radius: 10px;
+    background-color: purple;
+    border: 1px solid transparent;
+    color: white;
+    margin-left: 20px;
+}
+.iphone-img-home{
+    position: relative;
+    bottom: 340px;
+    left: 30px;
+}
+.home-product{
+    position: relative;
+    bottom: 331px;
+    left: 231px;
+    height: 1000px;
+    width: 997px;
+    /* border: 1px solid black; */
+}
+.best-sel{
+    font-size: 25px;
+    font-weight: bold;
+    position: relative;
+    right: 40px;
+}
+.product-home{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 1500px;
+    position: relative;
+    right: 300px;
+    /* height: 1800px;
+    width: 1000px;
+    /* border: 1px solid black; */
+    /* position: relative;
+    bottom: 2433px;
+    left: 299px;  */
+}
+.product-img-home{
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.home-lable{
+    padding: 6px;
+    position: relative;
+    bottom: 110px;
+    left: 70px;
+    background-color: crimson;
+    border-radius: 1px;
+    color: white;
+}
+.cart{
+    position: relative;
+    top: 65px;
+    right: 20px;
+    width: 120px;
+    padding: 9px 40px;
+    border-radius: 10px;
+    margin-left: 1000px;
+    background-color: black;   
+}
+.login-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.nav-item{
+    margin-right: 100px;
+    font-weight: bold;
+}
+
+@media screen and (max-width: 700px){
+    .header{
+       display: none;
+    }
+    .iphone-img-home{
+        display: none;
+    }
+    .product-home{
+        flex-direction: column;
+        position: relative;
+        top: 396px;
+        right: 285px;
+    }
+    .product-img-home{
+        height: 600px;
+        width: 600px;
+    }
+    .product-name{
+        font-size: 60px;
+    }
+    .product-cost{
+        font-size: 40px;
+    }
+    .buy-btn{
+        padding: 20px 30px;
+        font-size: 30px;
+    }
+    .cart-btn{
+        padding: 20px 30px;
+        font-size: 30px;
+    }
+    .home-lable{
+        display: none;
+    }
+    .ishop{
+        height: 200px;
+        width: 400px;
+        position: relative;
+        top: 235px;
+        right: -71px;
+    }
+    .nav{
+        position: relative;
+        left: 233px;
+        top: 108px;
+        height: 30px;
+        width: 30px;
+    }
+    .best-sel{
+        display: none;
+    }
+}
